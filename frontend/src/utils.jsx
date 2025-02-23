@@ -12,4 +12,4 @@ export const handleError = (msg) => {
   });
 };
 
-export const API_URL = "http://localhost:3000";
+export const API_URL = "https://auth-mern-api-taupe.vercel.app/";
